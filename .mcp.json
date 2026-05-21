@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "lf-in_house": {
+      "command": "uvx",
+      "args": [
+        "mcp-proxy",
+        "--headers",
+        "x-api-key",
+        "CRAFTED_API_KEY",
+        "http://lf.we-crafted.com:7860/api/v1/mcp/project/cee4876d-8279-4450-ad85-5a111cc4390a/streamable"
+      ]
+    }
+  }
+}

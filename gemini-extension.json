@@ -1,0 +1,6 @@
+{
+  "name": "crafted-agent-skills",
+  "description": "Crafted AI-powered agents across many business domains via MCP",
+  "version": "1.0.0",
+  "skills_path": "skills"
+}

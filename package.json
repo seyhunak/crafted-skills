@@ -1,0 +1,26 @@
+{
+  "name": "@crafted-company/agent-skills",
+  "version": "1.0.0",
+  "description": "Agent Skills for Crafted - AI agents across many business domains via MCP",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seyhunak/crafted-skills.git"
+  },
+  "keywords": [
+    "agent-skills",
+    "mcp",
+    "ai-agents",
+    "crafted",
+    "banking",
+    "sales",
+    "marketing",
+    "recruitment",
+    "compliance"
+  ],
+  "author": "Crafted <hello@we-crafted.com>",
+  "license": "Apache-2.0",
+  "homepage": "https://we-crafted.com",
+  "bugs": {
+    "url": "https://github.com/seyhunak/crafted-skills/issues"
+  }
+}
